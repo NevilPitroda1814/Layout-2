@@ -1,0 +1,80 @@
+/* Header CSS */
+.logo_img{
+    background-color: #2b564c;
+    padding: 15%;
+    box-shadow: -3px -3px #143c54;
+}
+.upper{
+    padding: 10px;
+}
+.main_nm h4{
+    margin-left: -50%;
+}
+.name {
+    color: #ea6341;
+}
+.box {
+    background-color:#0947399a;
+    border-radius: 0% 0% 50% 50%;
+    text-align: center;
+    width: 25%;
+    height: 250px;
+    font-size: 30px;
+    color: white;
+    padding: 25px;
+    position: absolute;
+    right: 15%;
+}
+/* Session start */
+/* Services session */
+.title_service h4{
+    color: #2b564c;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 3%;
+}
+.num h1{
+    font-weight: bold;
+    color: #d06444;
+    align-content: center;
+    padding-top: 5%;
+}
+.txt_service h5{
+    color: #2b564c;
+    font-size: large;
+}
+.all_service{
+    padding: 4%;
+}
+/* About & contact session */
+
+.about{
+    background-color: #2b564c;
+    padding: 5%;
+    color: white;
+}
+.contact{
+    background-color: #d06444;
+    padding: 5%;
+    color: white;
+}
+.about h2,.contact h2{
+    text-align: center;
+    font-weight: bold;
+}
+.website{
+    background-color: #d4e4e4;
+    padding: 5%;
+    text-align: center;
+}
+.website a{
+    text-decoration: none;
+    color: #a6bfc3;
+}
+/* Footer CSS */
+footer{
+    margin-top: 2%;
+    padding: 0.5%;
+    background-color: #d06444;
+}
