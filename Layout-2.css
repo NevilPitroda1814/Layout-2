@@ -1,29 +1,27 @@
 /* Header CSS */
 .logo_img{
     background-color: #2b564c;
-    padding: 15%;
+    padding: 30%;
     box-shadow: -3px -3px #143c54;
 }
-.upper{
-    padding: 10px;
-}
-.main_nm h4{
-    margin-left: -50%;
+.main_nm{
+    margin-left: -5%;
 }
 .name {
     color: #ea6341;
+    font-weight: bold;
 }
 .box {
     background-color:#0947399a;
     border-radius: 0% 0% 50% 50%;
     text-align: center;
-    width: 25%;
+    width: 50%;
     height: 250px;
     font-size: 30px;
     color: white;
     padding: 25px;
     position: absolute;
-    right: 15%;
+    right: 5%;
 }
 /* Session start */
 /* Services session */
